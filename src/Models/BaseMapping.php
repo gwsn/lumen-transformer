@@ -1,5 +1,5 @@
 <?php
-namespace Gwsn\LumenTransformer\src\Models;
+namespace Gwsn\LumenTransformer\Models;
 
 
 abstract class BaseMapping implements MappingInterface

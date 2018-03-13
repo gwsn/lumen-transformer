@@ -1,10 +1,10 @@
 <?php
-namespace Gwsn\LumenTransformer\src\Models;
+namespace Gwsn\LumenTransformer\Models;
 
 /**
  * Class Transformer
  *
- * @package Gwsn\LumenTransformer\src\Models
+ * @package Gwsn\LumenTransformer\Models
  */
 class Transformer
 {
