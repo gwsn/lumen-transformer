@@ -2,9 +2,9 @@
 
 namespace Gwsn\LumenTransformer;
 
-use Illuminate\Support\ServiceProvider;
+use Illuminate\Support\ServiceProvider as BaseServiceProvider;
 
-class TransformerServiceProvider extends ServiceProvider {
+class ServiceProvider extends BaseServiceProvider {
 
     /**
      * Bootstrap the application services.
